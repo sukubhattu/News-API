@@ -11,6 +11,8 @@ djangorestframework = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
 drf-yasg = "*"
+whitenoise = "==3.3.1"
+gunicorn = "==19.8.1"
 
 [requires]
 python_version = "3.8"
